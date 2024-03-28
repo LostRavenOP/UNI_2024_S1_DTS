@@ -1,7 +1,7 @@
 import re
 
 # Example of a corrupted link (replace with your own)
-corrupted_link = "../../../../../../../:w:/g/personal/wahlstka_unisa_edu_au/ERrpeF3gLkpAsmp6KK69aTABhkZN1vaNl8Zt2KVjAcxX7w?e=cKPKRl"
+corrupted_link = "Ingkarninthi.docx"
 
 
 def repair_corrupted_link(corrupted_link):
